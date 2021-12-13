@@ -13,3 +13,5 @@
     + [Wykład 7](notebooks/6_funkcje_petle.ipynb)
 7. Regresja liniowa
     + [Wykład 8](notebooks/7_regresja.ipynb)
+8. Analizy przestrzenne
+    + [Wykład 9](notebooks/8_analizy_przestrzenne.ipynb)
